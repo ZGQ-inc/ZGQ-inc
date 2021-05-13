@@ -1,5 +1,4 @@
-## 我的资源群
->transit-groups
+## 我的资源群 transit-groups
 >https://github.com/ZGQ-inc/transit-groups
 
 <!--
