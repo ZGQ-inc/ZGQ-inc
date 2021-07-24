@@ -4,9 +4,11 @@
 
 QQ：3527294490
 
+> 有事联系QQ
+
 Telegram：@ZGQinc [链接](https://t.me/ZGQInc)
 
-> 不经常在线
+> 电报不经常在线
 
 # 活跃社区
 
