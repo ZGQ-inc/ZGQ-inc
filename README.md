@@ -9,7 +9,7 @@
 在软天空更新
 
 [APP下载地址](https://sj.qq.com/myapp/detail.htm?apkName=com.rtk.app)
-
+http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk
 <!--
 **ZGQ-inc/ZGQ-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
