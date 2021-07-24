@@ -1,8 +1,12 @@
 # [我的资源群](https://github.com/ZGQ-inc/transit-groups)
 
-# 有事联系QQ
+# 联系方式
 
-3527294490
+QQ：3527294490
+
+Telegram：@ZGQinc [链接](https://t.me/ZGQInc)
+
+> 不经常在线
 
 # 活跃社区
 
