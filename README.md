@@ -6,7 +6,7 @@
 
 <a>![qq](https://img.shields.io/badge/QQ-3527294490-blue)</a> `有事联系QQ`
 
-<a href="https://t.me/ZGQInc">![Gmail](https://img.shields.io/badge/Telegram-ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a> `电报不经常在线`
+<a href="https://t.me/ZGQInc">![Gmail](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a> `电报不经常在线`
 
 <h1 align="center">活跃社区</h1>
 
