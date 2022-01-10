@@ -20,7 +20,7 @@ https://sj.qq.com/myapp/detail.htm?apkName=com.rtk.app
 
 ***
 
-<h2 align="center">今日访客数</h2>
+<h2 align="center">访客数</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ZGQ-inc}/count.svg" alt="ZGQ-inc :: Visitor's Count" /></p>
 
