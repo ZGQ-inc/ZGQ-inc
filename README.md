@@ -26,6 +26,10 @@ https://sj.qq.com/myapp/detail.htm?apkName=com.rtk.app
 
 ***
 
+[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=ZGQの聊天室（点击进入）%20&fontSize=13)](https://chat.getloli.com/room/@ZGQ-inc)
+
+***
+
 ![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&margin-w=28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc)
