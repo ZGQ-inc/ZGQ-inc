@@ -4,15 +4,15 @@
 
 <h1 align="center">联系方式</h1>
 
-<a>![qq](https://img.shields.io/badge/QQ-3527294490-blue)</a> `有事联系QQ`
+<a>![qq](https://img.shields.io/badge/QQ-3527294490-blue)</a> `QQ经常被冻结，有事请至留言板或Telegram`
 
-<a href="https://t.me/ZGQInc">![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a> `电报不经常在线`
+<a href="https://t.me/ZGQInc">![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a>
 
 <h1 align="center">活跃社区</h1>
 
 在<a>![Ruansky](https://img.shields.io/badge/-软天空-blue)</a>分享资源
 
-[APP下载地址](http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk?fsname=软天空.apk)
+[APP下载地址](https://zgq-inc.lanzouo.com/i8mAEwhcqgd)
 
 <!--
 https://sj.qq.com/myapp/detail.htm?apkName=com.rtk.app
@@ -26,7 +26,7 @@ https://sj.qq.com/myapp/detail.htm?apkName=com.rtk.app
 
 ***
 
-[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=ZGQの聊天室（点击进入）%20&fontSize=13)](https://chat.getloli.com/room/@ZGQ-inc)
+[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://chat.getloli.com/room/@ZGQ-inc)
 
 ***
 
