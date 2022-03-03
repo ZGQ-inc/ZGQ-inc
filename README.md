@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=2000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%E6%88%91%E6%98%AFZGQ;%E6%9D%A5%E8%87%AA%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E7%9A%84%E9%AB%98%E4%BA%8C%E5%AD%A6%E7%94%9F)
 
-# [<h1 align="center">个人主页</h1>](https://zgq-inc.github.io/homepage/)
+# [个人主页](https://zgq-inc.github.io/homepage/)
 
-# [<h2 align="center">我的资源群</h2>](https://zgq-inc.github.io/transit-groups/)
+# [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
 <h1 align="center">联系方式</h1>
 
