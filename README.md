@@ -24,11 +24,13 @@
 
 [APP下载地址](https://zgq-inc.lanzouo.com/i8mAEwhcqgd)
 
-<h2 align="center">访客数</h2>
+<h1 align="center">访客数</h1>
 
 ![:ZGQ-inc](https://count.getloli.com/get/@ZGQ-inc?theme=rule34)
 
 ***
+
+<h1 align="center">留言板</h1>
 
 [![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://chat.getloli.com/room/@ZGQ-inc)
 
