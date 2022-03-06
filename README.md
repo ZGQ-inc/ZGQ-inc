@@ -32,7 +32,7 @@
 
 <h1 align="center">留言板</h1>
 
-[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://chat.getloli.com/room/@ZGQ-inc)
+[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://zgq-inc.github.io/homepage/board.html)
 
 ***
 
