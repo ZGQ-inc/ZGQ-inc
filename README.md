@@ -61,3 +61,17 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=special-ascii)](https://zgq-inc.github.io/special-ascii)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=toolbox-from-RC)](https://zgq-inc.github.io/toolbox-from-RC)
+
+<font size="1">网页源码内有惊喜</font>
+
+<!--
+★恭喜你发现了这个惊喜★
+♥H资源分享♥
+――――――――――
+冰点™资源交流里群（Q群）
+https://zgqinc-my.sharepoint.com/:w:/g/personal/zgq_zgqinc_onmicrosoft_com/ES7BXHjho1lKoQ5O15f9DxsBMpYoGyOnG3Zyc0B9Ei_rCw?e=VAaUV9
+――――――――――
+某人的██资源分享站
+https://r18zgqinc.wordpress.com/
+――――――――――
+――――――――――
