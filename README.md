@@ -4,7 +4,7 @@
 
 # [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
-# [安卓破解软件分享](http://a.ruansky.com/myup/449647/)
+# [安卓破解软件分享](https://zgq-inc.github.io/homepage/rtk_up.html)
 
 `本人在软天空平台分享的1700个安卓破解软件`
 
