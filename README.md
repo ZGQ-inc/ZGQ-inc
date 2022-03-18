@@ -6,7 +6,7 @@
 
 # [安卓破解软件分享](https://zgq-inc.github.io/homepage/rtk_up.html)
 
-`本人在软天空平台分享的1700个安卓破解软件`
+`本人在软天空平台分享的2000个安卓破解软件`
 
 # [资源列表](https://zgq-inc.github.io/homepage/resources.html)
 
@@ -58,11 +58,11 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=SB-Tencent)](https://zgq-inc.github.io/SB-Tencent)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=HTML-music-player)](https://zgq-inc.github.io/HTML-music-player)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=special-ascii)](https://zgq-inc.github.io/special-ascii)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=toolbox-from-RC)](https://zgq-inc.github.io/toolbox-from-RC)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=HTML-music-player)](https://zgq-inc.github.io/HTML-music-player)
 
 <font size="1">网页源码内有惊喜</font>
 
