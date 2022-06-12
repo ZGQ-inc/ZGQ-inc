@@ -14,7 +14,7 @@
 
 <h1 align="center">联系方式</h1>
 
-![qq](https://img.shields.io/badge/QQ-3527294490-blue) `QQ经常被冻结，有事请至留言板或Telegram`
+![qq](https://zgq-inc.github.io/badge/ico/qq.svg)![qq](https://img.shields.io/badge/-3527294490-black) `QQ经常被冻结，有事请至留言板或Telegram`
 
 <a href="https://t.me/ZGQInc">![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a>
 
