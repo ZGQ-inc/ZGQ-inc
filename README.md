@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi%F0%9F%91%8B%E6%88%91%E6%98%AFZGQ;%E4%B8%80%E5%90%8D%E6%9D%A5%E8%87%AA%E4%B8%8A%E6%B5%B7%E7%9A%84%E9%AB%98%E4%BA%8C%E5%AD%A6%E7%94%9F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是ZGQ;一名来自上海的高三学生)
 
 # [个人主页](https://zgq-inc.github.io/homepage/)
 
