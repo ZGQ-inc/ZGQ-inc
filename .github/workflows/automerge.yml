@@ -1,5 +1,5 @@
-name: automerge 
- on: 
+name: automerge 
+on: 
    pull_request: 
      types: 
        - labeled 
