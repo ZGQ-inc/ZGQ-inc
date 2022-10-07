@@ -14,9 +14,15 @@
 
 <h1 align="center">联系方式</h1>
 
-![qq](https://zgq-inc.github.io/badge/ico/qq.svg)![qq](https://img.shields.io/badge/-3527294490-black) `QQ经常被冻结，有事请至留言板或Telegram`
+![qq](https://zgq-inc.github.io/badge/ico/qq.svg)![qq](https://img.shields.io/badge/-3527294490-black) **已退QQ**
 
-<a href="https://t.me/ZGQInc">![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=4d4d4d&labelColor=000000)</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc)
+
+[![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)
+
+[![Office365](https://img.shields.io/badge/Office365-ZGQ@zgqinc.onmicrosoft.com-666666?style=for-the-badge&logo=Microsoft&logoColor=&labelColor=000000)](mailto:ZGQ@zgqinc.onmicrosoft.com)
 
 <h1 align="center">活跃社区</h1>
 
