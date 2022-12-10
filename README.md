@@ -14,8 +14,6 @@
 
 <h1 align="center">联系方式</h1>
 
-![qq](https://zgq-inc.github.io/badge/ico/qq.svg)![qq](https://img.shields.io/badge/-3527294490-black) **已退QQ**
-
 [![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc)
 
 [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
