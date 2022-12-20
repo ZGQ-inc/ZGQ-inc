@@ -2,13 +2,13 @@
 
 # [个人主页](http://domain.zgqinc.gq/)
 
-# [我的资源群](https://zgq-inc.github.io/transit-groups/)
+# [我的资源群](https://archive.zgqinc.gq/transit-groups/)
 
-# [安卓破解软件分享](https://zgq-inc.github.io/homepage/rtk_up.html)
+# [安卓破解软件分享](https://zgqinc.gq/rtk_up)
 
 `本人在软天空平台分享的2000个安卓破解软件`
 
-# [资源列表](https://zgq-inc.github.io/homepage/resources.html)
+# [资源列表](https://zgqinc.gq/resources)
 
 `精选资源`
 
@@ -16,11 +16,11 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc)
 
+[![Office365](https://img.shields.io/badge/Office365-ZGQ@zgqinc.onmicrosoft.com-666666?style=for-the-badge&logo=Microsoft&logoColor=&labelColor=000000)](mailto:ZGQ@zgqinc.onmicrosoft.com)
+
 [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)
-
-[![Office365](https://img.shields.io/badge/Office365-ZGQ@zgqinc.onmicrosoft.com-666666?style=for-the-badge&logo=Microsoft&logoColor=&labelColor=000000)](mailto:ZGQ@zgqinc.onmicrosoft.com)
 
 <h1 align="center">活跃社区</h1>
 
@@ -36,21 +36,19 @@
 
 <h1 align="center">留言板</h1>
 
-[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://zgq-inc.github.io/homepage/board.html)
+[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://zgqinc.gq/board)
 
 ***
 
 <h1 align="center">个人Github成就</h1>
 
-![profile-3d-contrib](https://zgq-inc.github.io/ZGQ-inc/profile-3d-contrib/profile-night-rainbow.svg)
+![profile-3d-contrib](https://zgq-inc.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
-![ZGQ-inc's github stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j)
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZGQ-Inc&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
 
 ![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&margin-w=28)
 
@@ -76,12 +74,3 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=toolbox-from-RC)](https://zgq-inc.github.io/toolbox-from-RC)
 
-<font size="1">网页源码内有惊喜</font>
-
-<!--
-★恭喜你发现了这个惊喜★
-♥H资源分享♥
-――――――――――
-某人的██资源分享站
-https://r18zgqinc.wordpress.com/
--->
