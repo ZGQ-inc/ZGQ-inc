@@ -66,8 +66,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=uptime-status)](https://zgq-inc.github.io/uptime-status/)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=SB-Tencent)](https://zgq-inc.github.io/SB-Tencent)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=HTML-music-player)](https://zgq-inc.github.io/HTML-music-player)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=special-ascii)](https://zgq-inc.github.io/special-ascii)
