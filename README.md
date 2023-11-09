@@ -38,10 +38,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
 
-<!--<h1 align="center">留言板</h1>
-
-[![](https://chat.getloli.com/room/@ZGQ-inc/svg?width=600&height=280&limit=20&theme=light&title=留言板（点击进入）%20&fontSize=13)](https://zgqinc.gq/board)-->
-
 ***
 
 <h1 align="center">个人Github成就</h1>
