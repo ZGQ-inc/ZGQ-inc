@@ -44,9 +44,9 @@
 
 ![profile-3d-contrib](https://zgq-inc.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=5,650abf,6a13f8,fc35d0,fe696f,ff9a8b)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=5,650abf,6a13f8,fc35d0,fe696f,ff9a8b)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j)
 
