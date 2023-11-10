@@ -38,8 +38,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
 
-***
-
 <h2 align="center">个人Github成就</h2>
 
 ![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&row=2&column=5)
@@ -51,8 +49,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=50,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
-
-***
 
 <h2 align="center">我在做的项目</h2>
 
