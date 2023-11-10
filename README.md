@@ -50,7 +50,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j&locale=zh_Hans)
 
-![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&margin-w=28)
+![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&row=2&column=5)
 
 ***
 
