@@ -14,7 +14,7 @@
 
 `精选资源`
 
-<h1 align="center">联系方式</h1>
+<h2 align="center">联系方式</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc)
 
@@ -24,23 +24,23 @@
 
 <!--[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)-->
 
-<h1 align="center">活跃社区</h1>
+<h2 align="center">活跃社区</h2>
 
 在![Ruansky](https://img.shields.io/badge/-软天空-blue)分享资源
 
 [APP下载地址](https://zgq-inc.lanzouo.com/i8mAEwhcqgd)
 
-<h1 align="center">访客数</h1>
+<h2 align="center">访客数</h2>
 
 ![:ZGQ-inc](https://count.getloli.com/get/@ZGQ-inc?theme=rule34)
 
-<h1 align="center">Spotify</h1>
+<h2 align="center">Spotify正在播放</h12>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
 
 ***
 
-<h1 align="center">个人Github成就</h1>
+<h2 align="center">个人Github成就</h2>
 
 ![profile-3d-contrib](https://zgq-inc.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -54,7 +54,7 @@
 
 ***
 
-<h1 align="center">我在做的项目</h1>
+<h2 align="center">我在做的项目</h2>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=overthefirewall)](https://zgq-inc.github.io/overthefirewall/)
 
