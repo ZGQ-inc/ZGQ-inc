@@ -50,9 +50,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j&locale=cn)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j)
 
-![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&margin-w=28&locale=cn)
+![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&margin-w=28)
 
 ***
 
