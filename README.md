@@ -2,15 +2,15 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是ZGQ;一名来自上海的大一学生)
 
-# [个人主页](http://domain.zgqinc.gq/)
+## [个人主页](http://domain.zgqinc.gq/)
 
-# [我的资源群](https://archive.zgqinc.gq/transit-groups/)
+## [我的资源群](https://archive.zgqinc.gq/transit-groups/)
 
-# [安卓破解软件分享](https://zgqinc.gq/rtk_up)
+### [安卓破解软件分享](https://zgqinc.gq/rtk_up)
 
 `本人在软天空平台分享的2000个安卓破解软件`
 
-# [资源列表](https://zgqinc.gq/resources)
+### [资源列表](https://zgqinc.gq/resources)
 
 `精选资源`
 
@@ -22,7 +22,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)
+<!--[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)-->
 
 <h1 align="center">活跃社区</h1>
 
@@ -33,8 +33,6 @@
 <h1 align="center">访客数</h1>
 
 ![:ZGQ-inc](https://count.getloli.com/get/@ZGQ-inc?theme=rule34)
-
-***
 
 <h1 align="center">Spotify</h1>
 
