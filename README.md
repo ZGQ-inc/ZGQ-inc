@@ -24,7 +24,11 @@
 
 <!--[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)-->
 
-<h2 align="center">活跃社区</h2>
+<h2 align="center">个人TG频道</h2>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/CopyRightZGQInc)
+
+<h2 align="center">不活跃社区</h2>
 
 在![Ruansky](https://img.shields.io/badge/-软天空-blue)分享资源
 
