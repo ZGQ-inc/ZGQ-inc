@@ -40,7 +40,7 @@
 
 <h2 align="center">Spotify正在播放</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=0000ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
 
 [![Spotify](https://img.shields.io/badge/Spotify-ZGQ-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/a54fe2pnapk5pbzbh0on5gczd)
 
