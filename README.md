@@ -64,8 +64,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=uptime-status)](https://zgq-inc.github.io/uptime-status/)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=sitebox)](https://github.com/ZGQ-inc/sitebox) 已停更
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=ZGQs_QRbot)](https://zgq-inc.github.io/ZGQs_QRbot/) 已停更
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=HTML-music-player)](https://zgq-inc.github.io/HTML-music-player) Demo
