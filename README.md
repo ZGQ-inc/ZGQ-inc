@@ -81,14 +81,14 @@
 
 <h2 align="center">个人设备</h2>
 
-![Galaxy Note 2](https://img.shields.io/badge/Galaxy%20Note%202-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
-![Galaxy Note 4](https://img.shields.io/badge/Galaxy%20Note%204-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
-![Galaxy Note 10+ 5G](https://img.shields.io/badge/Galaxy%20Note%2010%2B%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
 ![Galaxy S22 Ultra](https://img.shields.io/badge/Galaxy%20S22%20Ultra-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
-![Ericsson Xperia X10i](https://img.shields.io/badge/Ericsson%20Xperia%20X10i-000000?style=for-the-badge&logo=sony&logoColor=FFFFFF)
+![Galaxy Note 10+ 5G](https://img.shields.io/badge/Galaxy%20Note%2010%2B%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
+![Galaxy Note 4](https://img.shields.io/badge/Galaxy%20Note%204-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
+![Galaxy Note 2](https://img.shields.io/badge/Galaxy%20Note%202-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
 ![GPD Win Max 2 2023](https://tinyurl.com/GPD-Win-Max-2)
 ![Galaxy Buds2 Pro](https://img.shields.io/badge/Galaxy%20Buds2%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
 ![Galaxy Watch 5](https://img.shields.io/badge/Galaxy%20Watch%205-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF)
+![Ericsson Xperia X10i](https://img.shields.io/badge/Ericsson%20Xperia%20X10i-000000?style=for-the-badge&logo=sony&logoColor=FFFFFF)
 ![RTX 3070 FE](https://img.shields.io/badge/RTX%203070%20FE%20Blower-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
 
 <h2 align="center">开发环境</h2>
