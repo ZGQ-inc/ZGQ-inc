@@ -1,3 +1,20 @@
+<!-- repos & rools used in this README -->
+<!-- 
+Adobe illustrator
+https://github.com/DenverCoder1/readme-typing-svg
+https://github.com/badges/shields
+https://github.com/journey-ad/Moe-Counter
+https://github.com/kittinan/spotify-github-profile
+https://github.com/JeffreyCA/spotify-recently-played-readme
+https://github.com/devicons/devicon/
+https://www.pcgamebenchmark.com/
+https://github.com/ZGQ-inc/skyline
+https://github.com/ryo-ma/github-profile-trophy
+https://github.com/yoshi389111/github-profile-3d-contrib
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/anuraghazra/github-readme-stats
+-->
+
 ![banner](banner2024_medium.png)
 
 <p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
@@ -82,9 +99,6 @@
 |-|-|
 | ![Galaxy S22 Ultra](https://img.shields.io/badge/Galaxy%20S22%20Ultra-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 10+ 5G](https://img.shields.io/badge/Galaxy%20Note%2010%2B%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 4](https://img.shields.io/badge/Galaxy%20Note%204-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 2](https://img.shields.io/badge/Galaxy%20Note%202-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Ericsson Xperia X10i](https://img.shields.io/badge/Ericsson%20Xperia%20X10i-000000?style=for-the-badge&logo=sony&logoColor=FFFFFF) <br> ![GPD Win Max 2 2023](https://tinyurl.com/GPD-Win-Max-2) <br> ![Galaxy Buds2 Pro](https://img.shields.io/badge/Galaxy%20Buds2%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Watch 5 Pro](https://img.shields.io/badge/Galaxy%20Watch%205%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![RTX 5070](https://img.shields.io/badge/RTX%205070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF) <br> ![Ryzen 5 9600X](https://img.shields.io/badge/Ryzen%205%209600X-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF) |  <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-9600x&memory=32gb&gpu=nvidia-geforce-rtx-5070&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-9600x/32gb/nvidia-geforce-rtx-5070/twitch.png"></a> |
 
-
-
-
 <h2 align="center">开发环境</h2>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)
@@ -99,7 +113,7 @@
 
 ![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&row=2&column=5)
 
-![profile-3d-contrib](https://zgq-inc.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
+![profile-3d-contrib](https://readme.zgqinc.gq/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j&locale=zh_Hans)
 
