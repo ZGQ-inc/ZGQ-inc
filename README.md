@@ -1,4 +1,4 @@
-<!-- repos & rools used in this README -->
+<!-- repos & tools used in this README -->
 <!-- 
 Adobe illustrator
 https://github.com/DenverCoder1/readme-typing-svg
