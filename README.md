@@ -18,53 +18,20 @@ https://github.com/homarr-labs/dashboard-icons
 
 ![banner](banner2024_medium.png)
 
-<p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
-        <span style="
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.2); 
-            z-index: -1;
-            border-radius: 10px; 
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        "></span>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是ZGQ;我是一只北极狐" alt="Typing SVG">
 </p>
-
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是ZGQ;我是一只北极狐) -->
 
 <h2 align="center">个人主页</h2>
 
 ## [domain.zgqinc.gq](http://domain.zgqinc.gq/)
 
-<!-- ## [我的资源群](https://archive.zgqinc.gq/transit-groups/)
-
-### [安卓破解软件分享](https://zgqinc.gq/rtk_up)
-
-`本人在软天空平台分享的2000个安卓破解软件`
-
-### [资源列表](https://zgqinc.gq/resources)
-
-`精选资源` -->
-
 <h2 align="center">联系方式</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc) [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
 
-<!--[![Office365](https://img.shields.io/badge/Office365-ZGQ@zgqinc.onmicrosoft.com-666666?style=for-the-badge&logo=Microsoft&logoColor=&labelColor=000000)](mailto:ZGQ@zgqinc.onmicrosoft.com)-->
-<!--[![ProtonMail](https://img.shields.io/badge/ProtonMail-zgqinc@protonmail.com-666666?style=for-the-badge&logo=ProtonMail&logoColor=&labelColor=000000)](mailto:zgqinc@protonmail.com)-->
-
 <h2 align="center">个人TG频道</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/CopyRightZGQInc)
-
-<!-- <h2 align="center">不活跃社区</h2>
-
-在![Ruansky](https://img.shields.io/badge/-软天空-blue)分享资源
-
-[APP下载地址](https://zgq-inc.lanzouo.com/i8mAEwhcqgd) -->
 
 <h2 align="center">访客数</h2>
 
@@ -78,19 +45,60 @@ https://github.com/homarr-labs/dashboard-icons
 
 <h2 align="center">语言和工具</h2>
 
-<p style="position: relative; padding: 20px; font-size: 16px; line-height: 1.6;">
-        <span style="
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.2); 
-            z-index: -1;
-            border-radius: 10px; 
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        "></span>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="40" height="40"/></a>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -110,7 +118,146 @@ https://github.com/homarr-labs/dashboard-icons
 
 <h2 align="center">正在使用</h2>
 
-</a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/1337x.svg" width="40" height="40"/> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/7zip.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adobe.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amd-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/android.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ariang.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/asus-router.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/balena-etcher.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/batocera-linux.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blu-ray.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bluetooth.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bootstrap.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/broadcom.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clash.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/code.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepl.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/endel-dark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ente-auth.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/epic-games-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/esphome.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/espressif.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/f-droid.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/findroid.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firefox.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fl-studio.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flatpak.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flightradar24-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fluent-reader.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fnos.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/genius.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gimp.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitbook.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/godot.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-drive.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-earth.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-home.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-one.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-play.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/home-assistant.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/intellij.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/itch.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jekyll.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kotlin.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubuntu-linux.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/libreoffice-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/logitech-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lua.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matter-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mediafire.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meta.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-office.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-onedrive.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-outlook.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/minecraft.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/npm.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oculus-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oh-my-posh-dark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama-dark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ookla-speedtest.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-source-initiative.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openlist.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openwrt.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-pass.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pypi.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pytorch.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qbittorrent.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/quickshare.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rclone.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reddit.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/revanced-manager.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rsshub.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samsung-internet.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sponsorblock.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/spotify.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sqlitebrowser.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/steam.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/svg.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tasmota-light.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/telegram.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/terraria.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tmdb.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tor.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/transmission.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitch.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitter.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unity-dark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unreal-engine-dark.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptimerobot.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virustotal.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wled.png" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xbox.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube-music.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yt-dlp.svg" width="40" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yts.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/1337x.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/7zip.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adobe.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amd-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/android.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ariang.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/asus-router.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/balena-etcher.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/batocera-linux.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blender.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/blu-ray.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bluetooth.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bootstrap.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/broadcom.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/clash.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare-pages.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/code.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepl.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/endel-dark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ente-auth.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/epic-games-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/esphome.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/espressif.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/f-droid.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/findroid.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firefox.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fl-studio.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flatpak.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flightradar24-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fluent-reader.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fnos.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/genius.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gimp.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitbook.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/godot.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-drive.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-earth.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-home.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-one.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-play.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/home-assistant.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/intellij.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ipfs-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/itch.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jekyll.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kotlin.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubuntu-linux.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/libreoffice-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/logitech-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lua.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/matter-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mediafire.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/meta.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-office.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-onedrive.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-outlook.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/minecraft.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mqtt.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/npm.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oculus-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oh-my-posh-dark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama-dark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ookla-speedtest.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-source-initiative.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openlist.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openwrt.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-pass.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pypi.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pytorch.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qbittorrent.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/quickshare.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rclone.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reddit.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/revanced-manager.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rsshub.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/samsung-internet.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sponsorblock.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/spotify.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sqlitebrowser.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/steam.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/svg.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tasmota-light.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/telegram.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/terraria.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tmdb.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tor.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/transmission.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitch.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitter.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unity-dark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unreal-engine-dark.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptimerobot.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virustotal.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-11.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wled.png" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/xbox.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube-music.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yt-dlp.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yts.svg" width="40" height="40"/>
 
 <h2 align="center">个人Github成就</h2>
 
