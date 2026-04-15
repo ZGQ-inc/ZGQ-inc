@@ -45,6 +45,7 @@ https://github.com/homarr-labs/dashboard-icons
 
 <h2 align="center">语言和工具</h2>
 
+<p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
@@ -99,7 +100,6 @@ https://github.com/homarr-labs/dashboard-icons
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="40" height="40"/>
-
 </p>
 
 <h2 align="center">个人设备</h2>
@@ -118,6 +118,7 @@ https://github.com/homarr-labs/dashboard-icons
 
 <h2 align="center">正在使用</h2>
 
+<p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/1337x.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/7zip.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" width="40" height="40"/>
@@ -258,6 +259,7 @@ https://github.com/homarr-labs/dashboard-icons
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube-music.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yt-dlp.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yts.svg" width="40" height="40"/>
+</p>
 
 <h2 align="center">个人Github成就</h2>
 
