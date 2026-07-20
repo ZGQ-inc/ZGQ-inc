@@ -29,9 +29,9 @@ https://github.com/homarr-labs/dashboard-icons
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc) [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
 
-<h2 align="center">个人TG频道</h2>
+<!-- <h2 align="center">个人TG频道</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/CopyRightZGQInc)
+[![Telegram](https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/CopyRightZGQInc) -->
 
 <h2 align="center">访客数</h2>
 
