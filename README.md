@@ -260,6 +260,8 @@ https://github.com/homarr-labs/dashboard-icons
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube-music.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yt-dlp.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/yts.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bambu-lab.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40" height="40"/>
 <br clear="all" />
 </p>
 
