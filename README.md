@@ -35,7 +35,7 @@ https://github.com/homarr-labs/dashboard-icons
 
 <h2 align="center">个人博客</h2>
 
-![blog.zgqinc.gq](https://blog.zgqinc.gq/)
+## ![blog.zgqinc.gq](https://blog.zgqinc.gq/)
 
 <h2 align="center">访客数</h2>
 
