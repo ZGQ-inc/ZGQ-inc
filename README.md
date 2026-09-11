@@ -273,6 +273,8 @@ https://github.com/homarr-labs/dashboard-icons
 
 ## [查看Github Skyline](https://skyline.zgqinc.gq/)
 
+![metrics](https://readme.zgqinc.gq/github-metrics.svg)
+
 ![profile-3d-contrib](https://readme.zgqinc.gq/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![profile](https://github-profile-trophy-unserori.vercel.app/?username=ZGQ-inc&theme=darkhub&row=2&column=5)
