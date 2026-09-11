@@ -14,6 +14,7 @@ https://github.com/yoshi389111/github-profile-3d-contrib
 https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/homarr-labs/dashboard-icons
+https://github.com/gautamkrishnar/blog-post-workflow
 -->
 
 ![banner](banner2024_medium.png)
@@ -36,6 +37,11 @@ https://github.com/homarr-labs/dashboard-icons
 <h2 align="center">个人博客</h2>
 
 ## ![blog.zgqinc.gq](https://blog.zgqinc.gq/)
+
+<table width="100%">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</table>
 
 <h2 align="center">访客数</h2>
 
