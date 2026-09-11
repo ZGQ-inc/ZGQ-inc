@@ -13,11 +13,14 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 5
     permissions:
       contents: write
     steps:
+      - name: Fix AppArmor for Puppeteer
+        run: sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0 || true
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -28,3 +31,4 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Shanghai
           repositories_forks: yes
+          debug: yes
