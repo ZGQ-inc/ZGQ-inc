@@ -14,6 +14,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -26,7 +27,7 @@ jobs:
           base_hireable: yes
           config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
+          config_twemoji: no
           plugin_calendar: yes
-          plugin_calendar_limit: 10
+          plugin_calendar_limit: 5
           repositories_forks: yes
