@@ -277,7 +277,7 @@ https://github.com/homarr-labs/dashboard-icons
 
 ![profile](https://github-profile-trophy-unserori.vercel.app/?username=ZGQ-inc&theme=darkhub&row=2&column=5)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZGQ-inc&theme=synthwave&locale=zh_Hans&timezone=UTC%2B8&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZGQ-inc&theme=synthwave&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ZGQ-inc&layout=compact&langs_count=20&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=ZGQ-inc&layout=compact&langs_count=20&theme=synthwave) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZGQ-inc&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=ZGQ-inc&show_icons=true&include_all_commits=true&theme=synthwave)
 
