@@ -273,22 +273,14 @@ https://github.com/homarr-labs/dashboard-icons
 
 ## [查看Github Skyline](https://skyline.zgqinc.gq/)
 
-![profile](https://github-profile-trophy.vercel.app/?username=ZGQ-inc&row=2&column=5)
-
 ![profile-3d-contrib](https://readme.zgqinc.gq/profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j&locale=zh_Hans)
+![profile](https://github-profile-trophy-unserori.vercel.app/?username=ZGQ-inc&theme=darkhub&row=2&column=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=50,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0) ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZGQ-inc&theme=synthwave&locale=zh_Hans&timezone=UTC%2B8&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ZGQ-inc&layout=compact&langs_count=20&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=ZGQ-inc&layout=compact&langs_count=20&theme=synthwave) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZGQ-inc&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=ZGQ-inc&show_icons=true&include_all_commits=true&theme=synthwave)
 
 <h2 align="center">我在做的项目</h2>
 
-| 网页 | Android |
-|---|---|
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=overthefirewall)](https://zgq-inc.github.io/overthefirewall/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=drivevideosplice)](https://github.com/ZGQ-inc/drivevideosplice) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=source)](https://zgq-inc.github.io/source) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=TTSdemo-Android)](https://github.com/ZGQ-inc/TTSdemo-Android) Demo |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=uptime-status)](https://zgq-inc.github.io/uptime-status/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=hypnosis)](https://github.com/ZGQ-inc/hypnosis) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=ZGQs_QRbot)](https://zgq-inc.github.io/ZGQs_QRbot/) 已停更 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=BMI-Android)](https://github.com/ZGQ-inc/BMI-Android) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=HTML-music-player)](https://zgq-inc.github.io/HTML-music-player) Demo | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=LHM-Client-Demo)](https://github.com/ZGQ-inc/LHM-Client-Demo) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=special-ascii)](https://zgq-inc.github.io/special-ascii) 已停更 | |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZGQ-inc&repo=toolbox-from-RC)](https://zgq-inc.github.io/toolbox-from-RC) Demo | |
+## [blog.zgqinc.gq/posts/projects](https://blog.zgqinc.gq/posts/projects/)
