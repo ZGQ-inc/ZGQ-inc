@@ -19,7 +19,7 @@ https://github.com/gautamkrishnar/blog-post-workflow
 
 ![banner](banner2024_medium.png)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2500&color=BABABA&background=000000B8&center=true&vCenter=true&width=500&separator=%3C&lines=Hi👋我是ZGQ;我是一只北极狐" alt="Typing SVG" /></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2500&color=BABABA&background=000000B8&center=true&vCenter=true&width=500&separator=%3C&lines=Hi👋我是ZGQ;我是一只北极狐" alt="Typing SVG" /></p>
 
 <h2 align="center">个人主页</h2>
 
