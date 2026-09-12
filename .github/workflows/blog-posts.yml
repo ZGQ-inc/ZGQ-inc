@@ -16,32 +16,32 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Pull latest posts with rich media
+    name: Pull latest posts (Metrics Full Card Style)
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch RSS and render cards
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.zgqinc.gq/feed.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
+          
+          title_max_length: 50
+          description_max_length: 85
+          
           custom_tags: "thumbnail/media:thumbnail/"
           
           item_exec: |
             const fallback = 'https://raw.githubusercontent.com/ZGQ-inc/ZGQ-inc/main/banner2024_medium.png';
             post.thumbnail = (post.thumbnail && post.thumbnail.$ && post.thumbnail.$.url) ? post.thumbnail.$.url : (typeof post.thumbnail === 'string' && post.thumbnail.length > 0 ? post.thumbnail : fallback);
-            if (post.categories && post.categories.length) {
-              post.categories = post.categories.filter(c => !['telegram', 'CopyRightZGQInc'].includes(c)).slice(0, 3);
+            if (post.description) {
+              post.description = post.description.replace(/<[^>]+>/g, '').replace(/[\r\n\t]+/g, ' ').trim();
             }
           
-          categories_template: "<code>$category</code> "
+          template: '<tr><td width="26%" align="center" valign="top"><a href="$url"><img src="$thumbnail" style="width:100%;max-height:95px;object-fit:cover;border-radius:6px;" alt="$title"></a><br/><sub>🗓️ <code>$date</code></sub></td><td width="74%" valign="top"><a href="$url"><b>$title</b></a><br/><br/><sub>$description</sub></td></tr>$newline'
           
-          template: '<tr><td width="28%" align="center" valign="middle"><a href="$url"><img src="$thumbnail" style="width:100%;max-height:115px;object-fit:cover;border-radius:6px;" alt="$title"></a></td><td width="72%" valign="middle"><a href="$url"><b>$title</b></a><br/><br/><sub>📅 <code>$date</code>&nbsp;&nbsp;🏷️ $categories</sub></td></tr>$newline'
-          
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          commit_message: "docs: update latest blog posts with rich media cards"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          commit_message: "docs: update latest 5 blog posts (full card style)"
           committer_name: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
