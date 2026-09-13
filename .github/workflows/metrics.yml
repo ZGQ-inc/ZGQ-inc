@@ -30,8 +30,8 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           repositories: 200
-          repositories_batch: 100
+          repositories_batch: 20
+          repositories_affiliations: ""
           repositories_forks: yes
-          repositories_affiliations: owner, collaborator
           config_octicon: yes
           config_timezone: Asia/Shanghai
