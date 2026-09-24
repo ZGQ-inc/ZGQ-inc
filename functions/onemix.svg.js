@@ -1,0 +1,5 @@
+export async function onRequest() {
+  const targetUrl = "https://img.shields.io/badge/OneMix%201S%2B-db142a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCIgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjE0LCAtMC40MikiIGQ9Ik0xNS4xNC40MmExNSwxNSwwLDEsMCwxNSwxNUExNSwxNSwwLDAsMCwxNS4xNC40MlptMy4wNiwyM2ExLjQsMS40LDAsMCwxLTEuMzksMS4zOUgxMy40OGExLjQsMS40LDAsMCwxLTEuNC0xLjM5VjEwYTIuMzksMi4zOSwwLDAsMSwxLjMtMS44OGwyLjg0LTEuNjdhMS4yMSwxLjIxLDAsMCwxLDIsMVoiLz48L3N2Zz4%3D";
+  const res = await fetch(targetUrl, { cf: { cacheEverything: true, cacheTtl: 604800 } });
+  return new Response(res.body, { headers: { "Content-Type": "image/svg+xml;charset=utf-8", "Cache-Control": "public, max-age=604800" } });
+}
