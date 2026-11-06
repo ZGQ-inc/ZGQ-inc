@@ -120,7 +120,64 @@ https://github.com/gautamkrishnar/blog-post-workflow
 
 | | |
 |-|-|
-| ![Galaxy Z Fold7](https://img.shields.io/badge/Galaxy%20Z%20Fold7-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Tab S10+](https://img.shields.io/badge/Galaxy%20Tab%20S10%2B-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Watch9 44mm](https://img.shields.io/badge/Galaxy%20Watch9%2044mm-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy S22 Ultra](https://img.shields.io/badge/Galaxy%20S22%20Ultra-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 10+ 5G](https://img.shields.io/badge/Galaxy%20Note%2010%2B%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note Fan Edition](https://img.shields.io/badge/Galaxy%20Note%20Fan%20Edition-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy S7 Edge](https://img.shields.io/badge/Galaxy%20S7%20Edge-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 4](https://img.shields.io/badge/Galaxy%20Note%204-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 2](https://img.shields.io/badge/Galaxy%20Note%202-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Ericsson Xperia X10i](https://img.shields.io/badge/Ericsson%20Xperia%20X10i-000000?style=for-the-badge&logo=sony&logoColor=FFFFFF) <br> ![GPD Win Max 2 2023](https://readme.zgqinc.gq/winmax.svg) <br> ![One-netbook OneMix 1s+](https://readme.zgqinc.gq/onemix.svg) <br> ![Galaxy Buds2 Pro](https://img.shields.io/badge/Galaxy%20Buds2%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Buds3 Pro](https://img.shields.io/badge/Galaxy%20Buds3%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Watch5 Pro](https://img.shields.io/badge/Galaxy%20Watch5%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![RTX 5070](https://img.shields.io/badge/RTX%205070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF) <br> ![RTX 3070](https://img.shields.io/badge/RTX%203070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF) <br> ![Ryzen 5 9600X](https://img.shields.io/badge/Ryzen%205%209600X-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF) <br> ![Ryzen 5 3600](https://img.shields.io/badge/Ryzen%205%203600-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF) <br> ![Cudy TR3000](https://tinyurl.com/TR3000) <br> ![N100](https://img.shields.io/badge/N100-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF) <br> ![Quest 3](https://img.shields.io/badge/Quest_3-0467DF?style=for-the-badge&logo=meta&logoColor=white) | <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-9600x&memory=32gb&gpu=nvidia-geforce-rtx-5070&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-9600x/32gb/nvidia-geforce-rtx-5070/twitch.png"></a> <br> <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-5-9600x/32/nvidia-geforce-rtx-5070/large.png"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-5-3600/16/nvidia-geforce-rtx-3070/large.png"></a> |
+| ![Galaxy Z Fold7](https://img.shields.io/badge/Galaxy%20Z%20Fold7-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Tab S10+](https://img.shields.io/badge/Galaxy%20Tab%20S10%2B-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Watch9 44mm](https://img.shields.io/badge/Galaxy%20Watch9%2044mm-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy S22 Ultra](https://img.shields.io/badge/Galaxy%20S22%20Ultra-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 10+ 5G](https://img.shields.io/badge/Galaxy%20Note%2010%2B%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note Fan Edition](https://img.shields.io/badge/Galaxy%20Note%20Fan%20Edition-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy S7 Edge](https://img.shields.io/badge/Galaxy%20S7%20Edge-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 4](https://img.shields.io/badge/Galaxy%20Note%204-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Note 2](https://img.shields.io/badge/Galaxy%20Note%202-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Ericsson Xperia X10i](https://img.shields.io/badge/Ericsson%20Xperia%20X10i-000000?style=for-the-badge&logo=sony&logoColor=FFFFFF) <br> ![GPD Win Max 2 2023](https://readme.zgqinc.gq/winmax.svg) <br> ![One-netbook OneMix 1s+](https://readme.zgqinc.gq/onemix.svg) <br> ![Galaxy Buds2 Pro](https://img.shields.io/badge/Galaxy%20Buds2%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Buds3 Pro](https://img.shields.io/badge/Galaxy%20Buds3%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![Galaxy Watch5 Pro](https://img.shields.io/badge/Galaxy%20Watch5%20Pro-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF) <br> ![SmartThings Station](https://img.shields.io/badge/SmartThings%20Station-1428A0?style=for-the-badge&logo=smartthings&logoColor=FFFFFF) <br> ![RTX 5070](https://img.shields.io/badge/RTX%205070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF) <br> ![RTX 3070](https://img.shields.io/badge/RTX%203070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF) <br> ![Ryzen 5 9600X](https://img.shields.io/badge/Ryzen%205%209600X-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF) <br> ![Ryzen 5 3600](https://img.shields.io/badge/Ryzen%205%203600-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF) <br> ![Cudy TR3000](https://tinyurl.com/TR3000) <br> ![N100](https://img.shields.io/badge/N100-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF) <br> ![Quest 3](https://img.shields.io/badge/Quest_3-0467DF?style=for-the-badge&logo=meta&logoColor=white) | <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-9600x&memory=32gb&gpu=nvidia-geforce-rtx-5070&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-9600x/32gb/nvidia-geforce-rtx-5070/twitch.png"></a> <br> <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-5-9600x/32/nvidia-geforce-rtx-5070/large.png"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-5-3600/16/nvidia-geforce-rtx-3070/large.png"></a> |
+
+<h2 align="center">智能家居</h2>
+
+![QHM RGB桌垫](https://img.shields.io/badge/QHM%20RGB%E6%A1%8C%E5%9E%AB-0082FC?style=for-the-badge&logo=bluetooth&logoColor=FFFFFF)
+![Yeelight 显示器挂灯 Pro](https://img.shields.io/badge/Yeelight%20%E6%98%BE%E7%A4%BA%E5%99%A8%E6%8C%82%E7%81%AF%20Pro-E02020?style=for-the-badge&logo=yeelight&logoColor=FFFFFF)
+![Yeelight Chameleon 幻彩灯带](https://img.shields.io/badge/Yeelight%20Chameleon%20%E5%B9%BB%E5%BD%A9%E7%81%AF%E5%B8%A6-E02020?style=for-the-badge&logo=yeelight&logoColor=FFFFFF)
+![Yeelight LED 智能灯泡 W3 彩光版](https://img.shields.io/badge/Yeelight%20LED%20%E6%99%BA%E8%83%BD%E7%81%AF%E6%B3%A1%20W3%20%E5%BD%A9%E5%85%89%E7%89%88-E02020?style=for-the-badge&logo=yeelight&logoColor=FFFFFF)
+![乐式情景 WiFi 色温灯 C 系列](https://img.shields.io/badge/%E4%B9%90%E5%BC%8F%E6%83%85%E6%99%AF%20WiFi%20%E8%89%B2%E6%B8%A9%E7%81%AF%20C%20%E7%B3%BB%E5%88%97-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![DIY 水波纹氛围灯](https://img.shields.io/badge/DIY%20%E6%B0%B4%E6%B3%A2%E7%BA%B9%E6%B0%9B%E5%9B%B4%E7%81%AF-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
+![DIY 极光氛围灯](https://img.shields.io/badge/DIY%20%E6%9E%81%E5%85%89%E6%B0%9B%E5%9B%B4%E7%81%AF-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
+![DIY 半导体小夜灯风扇](https://img.shields.io/badge/DIY%20%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%8F%E5%A4%9C%E7%81%AF%E9%A3%8E%E6%89%87-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
+![清萍蓝牙网关 CGSPR1](https://img.shields.io/badge/%E6%B8%85%E8%90%8D%E8%93%9D%E7%89%99%E7%BD%91%E5%85%B3%20CGSPR1-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![REDMI 智能电视 A Pro 43 英寸 2025 款](https://img.shields.io/badge/REDMI%20%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%20A%20Pro%2043%20%E8%8B%B1%E5%AF%B8%202025%20%E6%AC%BE-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![Xiaomi 智能家庭屏 Pro 8](https://img.shields.io/badge/Xiaomi%20%E6%99%BA%E8%83%BD%E5%AE%B6%E5%BA%AD%E5%B1%8F%20Pro%208-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![小米智能摄像机 4 变焦版](https://img.shields.io/badge/%E5%B0%8F%E7%B1%B3%E6%99%BA%E8%83%BD%E6%91%84%E5%83%8F%E6%9C%BA%204%20%E5%8F%98%E7%84%A6%E7%89%88-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![米家空调伴侣 2](https://img.shields.io/badge/%E7%B1%B3%E5%AE%B6%E7%A9%BA%E8%B0%83%E4%BC%B4%E4%BE%A3%202-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![米家智能直流变频塔扇 2](https://img.shields.io/badge/%E7%B1%B3%E5%AE%B6%E6%99%BA%E8%83%BD%E7%9B%B4%E6%B5%81%E5%8F%98%E9%A2%91%E5%A1%94%E6%89%87%202-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![领普人体存在传感器 ES5](https://img.shields.io/badge/%E9%A2%86%E6%99%AE%E4%BA%BA%E4%BD%93%E5%AD%98%E5%9C%A8%E4%BC%A0%E6%84%9F%E5%99%A8%20ES5-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![领普无线开关 KS1Pro](https://img.shields.io/badge/%E9%A2%86%E6%99%AE%E6%97%A0%E7%BA%BF%E5%BC%80%E5%85%B3%20KS1Pro-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![米家智能温湿度计 3 mini](https://img.shields.io/badge/%E7%B1%B3%E5%AE%B6%E6%99%BA%E8%83%BD%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%AE%A1%203%20mini-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![久豪电脑远程开机卡 Pro (WiFi)](https://img.shields.io/badge/%E4%B9%85%E8%B1%AA%E7%94%B5%E8%84%91%E8%BF%9C%E7%A8%8B%E5%BC%80%E6%9C%BA%E5%8D%A1%20Pro%20(WiFi)-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![Sagewe 智能计量插座 Xs11-M](https://img.shields.io/badge/Sagewe%20%E6%99%BA%E8%83%BD%E8%AE%A1%E9%87%8F%E6%8F%92%E5%BA%A7%20Xs11--M-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![Gra 智能控制器 V7 (WiFi) · 投影时钟](https://img.shields.io/badge/Gra%20%E6%99%BA%E8%83%BD%E6%8E%A7%E5%88%B6%E5%99%A8%20V7%20(WiFi)%20%C2%B7%20%E6%8A%95%E5%BD%B1%E6%97%B6%E9%92%9F-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![艾达普 (ADAPROX) 窗帘机器人](https://img.shields.io/badge/%E8%89%BE%E8%BE%BE%E6%99%AE%20(ADAPROX)%20%E7%AA%97%E5%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![米家智能香氛机](https://img.shields.io/badge/%E7%B1%B3%E5%AE%B6%E6%99%BA%E8%83%BD%E9%A6%99%E6%B0%9B%E6%9C%BA-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
+![YFNSEA 智能香氛机 V12](https://img.shields.io/badge/YFNSEA%20%E6%99%BA%E8%83%BD%E9%A6%99%E6%B0%9B%E6%9C%BA%20V12-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![COKIT 智能电热蚊香液加热器](https://img.shields.io/badge/COKIT%20%E6%99%BA%E8%83%BD%E7%94%B5%E7%83%AD%E8%9A%8A%E9%A6%99%E6%B6%B2%E5%8A%A0%E7%83%AD%E5%99%A8-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+![映趣智能剃须刀 BS8](https://img.shields.io/badge/%E6%98%A0%E8%B6%A3%E6%99%BA%E8%83%BD%E5%89%83%E9%A1%BB%E5%88%80%20BS8-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
+
+<h2 align="center">DIY 设备</h2>
+
+| 设备类型 | 品牌/型号 |
+| :--- | :--- |
+| **万用表/示波器/信号发生器** | 菲尼瑞斯 2D15P |
+| **有线电烙铁** | 正点原子 T90B |
+| **无线电烙铁** | 正点原子 TB1 |
+| **电动螺丝刀** | 正点原子 S40P |
+| **热风枪** | MINIWARE AirGo 140 |
+| **热熔胶枪** | 安立信 JC250113 |
+| **数控电源** | 菲尼瑞斯 DPS-150 |
+| **供电基站** | 影器 CC700 + 长城 CRPS 1200W |
+| **热成像** | 开源项目 UMEKOLAB |
+| **电桥** | 菲尼瑞斯 LCR-ST2 |
+| **晶体管测试仪** | 菲尼瑞斯 LCR-P1 |
+| **逻辑分析仪** | 开源项目 NanoDLA |
+| **电池充电器** | LiitoKala Lii-M4S |
+| **点焊机** | 阿威兹 H2-2026 |
+| **内阻测试仪** | 菲尼瑞斯 HRM-10 |
+| **3D打印笔** | 无牌 OLED屏幕 |
+| **3D打印机** | 拓竹 A1 mini |
+| **电磨笔** | 米家 MJDMB001QW |
+| **快充测试仪** | ChargerLab KM003C |
+| **加热台** | 菲尼瑞斯 HT-P1B |
+| **电子放大镜** | 未知品牌 TEMU台式 |
+| **超声波切割刀** | 杰科美 JM-Y10 PRO |
+| **测距仪/卷尺** | Aicevoos P7-60M |
+| **游标卡尺** | 利华中天 不锈钢 |
 
 <h2 align="center">开发环境</h2>
 
