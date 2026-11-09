@@ -30,13 +30,20 @@ jobs:
           title_max_length: 50
           description_max_length: 85
           
-          custom_tags: "thumbnail/media:thumbnail/"
+          custom_tags: "thumbnail/media:thumbnail/,summary/summary/"
           
           item_exec: |
             const fallback = 'https://raw.githubusercontent.com/ZGQ-inc/ZGQ-inc/main/article_placeholder.svg';
             post.thumbnail = (post.thumbnail && post.thumbnail.$ && post.thumbnail.$.url) ? post.thumbnail.$.url : (typeof post.thumbnail === 'string' && post.thumbnail.length > 0 ? post.thumbnail : fallback);
-            if (post.description) {
-              post.description = post.description.replace(/<[^>]+>/g, '').replace(/[\r\n\t]+/g, ' ').trim();
+            let desc = (post.description && post.description.trim()) || (item && (item.summary || item.contentSnippet)) || (customTags && customTags.summary) || post.summary || '';
+            if (typeof desc === 'object') {
+              desc = desc._ || (desc.$ ? desc.$.value : '') || '';
+            }
+            if (desc) {
+              desc = desc.replace(/<[^>]+>/g, '').replace(/[\r\n\t]+/g, ' ').trim();
+              post.description = desc.length > 85 ? desc.slice(0, 85) + '...' : desc;
+            } else {
+              post.description = '';
             }
           
           template: '<tr><td width="26%" align="center" valign="top"><a href="$url"><img src="$thumbnail" style="width:100%;max-height:95px;object-fit:cover;border-radius:6px;" alt="$title"></a><br/><sub>🗓️ <code>$date</code></sub></td><td width="74%" valign="top"><a href="$url"><b>$title</b></a><br/><br/><sub>$description</sub></td></tr>$newline'
