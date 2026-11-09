@@ -33,7 +33,7 @@ jobs:
           custom_tags: "thumbnail/media:thumbnail/"
           
           item_exec: |
-            const fallback = 'https://raw.githubusercontent.com/ZGQ-inc/ZGQ-inc/main/banner2024_medium.png';
+            const fallback = 'https://raw.githubusercontent.com/ZGQ-inc/ZGQ-inc/main/article_placeholder.svg';
             post.thumbnail = (post.thumbnail && post.thumbnail.$ && post.thumbnail.$.url) ? post.thumbnail.$.url : (typeof post.thumbnail === 'string' && post.thumbnail.length > 0 ? post.thumbnail : fallback);
             if (post.description) {
               post.description = post.description.replace(/<[^>]+>/g, '').replace(/[\r\n\t]+/g, ' ').trim();
