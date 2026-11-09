@@ -24,26 +24,26 @@ https://github.com/gautamkrishnar/blog-post-workflow
 <h2 align="center">个人主页</h2>
 
 <p align="center">
-  <a href="https://domain.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Homepage-domain.zgqinc.gq-666666?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Homepage" /></a>
+  <a href="https://domain.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Homepage-domain.zgqinc.gq-666666?style=for-the-badge&logo=firefox&logoColor=&labelColor=000000" alt="Homepage" /></a>
 </p>
 
 <h2 align="center">个人TG频道</h2>
 
 <p align="center">
-  <a href="https://t.me/CopyRightZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=000000" alt="Telegram Channel" /></a>
+  <a href="https://t.me/CopyRightZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000" alt="Telegram Channel" /></a>
 </p>
 
 <h2 align="center">联系方式</h2>
 
 <p align="center">
-  <a href="https://t.me/ZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=000000" alt="Telegram" /></a>
-  <a href="mailto:zgqinc@gmail.com"><img src="https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
+  <a href="https://t.me/ZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000" alt="Telegram" /></a>
+  <a href="mailto:zgqinc@gmail.com"><img src="https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000" alt="Gmail" /></a>
 </p>
 
 <h2 align="center">个人博客</h2>
 
 <p align="center">
-  <a href="https://blog.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Blog-blog.zgqinc.gq-666666?style=for-the-badge&logo=rss&logoColor=white&labelColor=000000" alt="Blog" /></a>
+  <a href="https://blog.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Blog-blog.zgqinc.gq-666666?style=for-the-badge&logo=rss&logoColor=&labelColor=000000" alt="Blog" /></a>
 </p>
 
 <table width="100%">
