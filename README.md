@@ -23,19 +23,28 @@ https://github.com/gautamkrishnar/blog-post-workflow
 
 <h2 align="center">个人主页</h2>
 
-## [domain.zgqinc.gq](http://domain.zgqinc.gq/)
-
-<h2 align="center">联系方式</h2>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ZGQInc) [![Gmail](https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:zgqinc@gmail.com)
+<p align="center">
+  <a href="https://domain.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Homepage-domain.zgqinc.gq-666666?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Homepage" /></a>
+</p>
 
 <h2 align="center">个人TG频道</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/CopyRightZGQInc)
+<p align="center">
+  <a href="https://t.me/CopyRightZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@CopyRightZGQInc-666666?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=000000" alt="Telegram Channel" /></a>
+</p>
+
+<h2 align="center">联系方式</h2>
+
+<p align="center">
+  <a href="https://t.me/ZGQInc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=000000" alt="Telegram" /></a>
+  <a href="mailto:zgqinc@gmail.com"><img src="https://img.shields.io/badge/Gmail-zgqinc@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000" alt="Gmail" /></a>
+</p>
 
 <h2 align="center">个人博客</h2>
 
-[![Blog](https://img.shields.io/badge/Blog-blog.zgqinc.gq-666666?style=for-the-badge&logo=rss&logoColor=white&labelColor=000000)](https://blog.zgqinc.gq/)
+<p align="center">
+  <a href="https://blog.zgqinc.gq/" target="_blank"><img src="https://img.shields.io/badge/Blog-blog.zgqinc.gq-666666?style=for-the-badge&logo=rss&logoColor=white&labelColor=000000" alt="Blog" /></a>
+</p>
 
 <table width="100%">
 <!-- BLOG-POST-LIST:START --><tr><td width="26%" align="center" valign="top"><a href="https://blog.zgqinc.gq/posts/syshlp/"><img src="https://raw.githubusercontent.com/ZGQ-inc/ZGQ-inc/main/article_placeholder.svg" style="width:100%;max-height:95px;object-fit:cover;border-radius:6px;" alt="移动终端预装系统级组件 SystemHelper 深度逆向分析与时空行为监控技术取证白皮书"></a><br/><sub>🗓️ <code>2026-11-05</code></sub></td><td width="74%" valign="top"><a href="https://blog.zgqinc.gq/posts/syshlp/"><b>移动终端预装系统级组件 SystemHelper 深度逆向分析与时空行为监控技术取证白皮书</b></a><br/><br/><sub>国家级/运营商级预装系统组件 SystemHelper &lpar;com.mobiletools.systemhelper&rpar; 深度逆向技术取证白皮书：横跨 4 年 5 代全量样本...</sub></td></tr>
