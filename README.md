@@ -141,6 +141,7 @@ https://github.com/gautamkrishnar/blog-post-workflow
 ![DIY 水波纹氛围灯](https://img.shields.io/badge/DIY%20%E6%B0%B4%E6%B3%A2%E7%BA%B9%E6%B0%9B%E5%9B%B4%E7%81%AF-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
 ![DIY 极光氛围灯](https://img.shields.io/badge/DIY%20%E6%9E%81%E5%85%89%E6%B0%9B%E5%9B%B4%E7%81%AF-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
 ![DIY 半导体小夜灯风扇](https://img.shields.io/badge/DIY%20%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%8F%E5%A4%9C%E7%81%AF%E9%A3%8E%E6%89%87-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
+![DIY 电视灯 (WLED)](https://img.shields.io/badge/DIY%20%E7%94%B5%E8%A7%86%E7%81%AF%20(WLED)-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
 ![清萍蓝牙网关 CGSPR1](https://img.shields.io/badge/%E6%B8%85%E8%90%8D%E8%93%9D%E7%89%99%E7%BD%91%E5%85%B3%20CGSPR1-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF)
 ![REDMI 智能电视 A Pro 43 英寸 2025 款](https://img.shields.io/badge/REDMI%20%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%20A%20Pro%2043%20%E8%8B%B1%E5%AF%B8%202025%20%E6%AC%BE-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
 ![Xiaomi 智能家庭屏 Pro 8](https://img.shields.io/badge/Xiaomi%20%E6%99%BA%E8%83%BD%E5%AE%B6%E5%BA%AD%E5%B1%8F%20Pro%208-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF)
